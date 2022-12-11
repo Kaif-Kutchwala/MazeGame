@@ -1,4 +1,4 @@
-# M A Z E 
+# [M A Z E](https://kaif-kutchwala.github.io/Maze/) 
 ## A game by Kaif Kutchwala
 
 ### How to play
